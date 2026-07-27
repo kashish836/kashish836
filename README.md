@@ -6,10 +6,11 @@
 
 **Building AI that solves real-world problems.**
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
-<a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /></a>
+<a href="https://kashish-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+<a href="https://www.linkedin.com/in/kashish-bhiwapurkar/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:bhiwapurkarkashish0836@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<a href="https://leetcode.com/u/kashish_vb08/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /></a>
+<a href="https://x.com/KBhiwapurkar836"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=A78BFA" /></a>
 
 </div>
 
@@ -91,10 +92,11 @@
 
 <div align="center">
 
-<a href="https://your-portfolio-link.com">Portfolio</a> •
-<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-<a href="mailto:your-email@example.com">Email</a> •
-<a href="https://leetcode.com/your-leetcode">LeetCode</a> •
+<a href="https://kashish-portfolio-eight.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/kashish-bhiwapurkar/">LinkedIn</a> •
+<a href="mailto:bhiwapurkarkashish0836@gmail.com">Email</a> •
+<a href="https://leetcode.com/u/kashish_vb08/">LeetCode</a> •
+<a href="https://x.com/KBhiwapurkar836">X (Twitter)</a> •
 <a href="https://huggingface.co/your-huggingface">HuggingFace</a>
 
 </div>
