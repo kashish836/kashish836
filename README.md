@@ -32,7 +32,6 @@
 |---|---|
 | 🖐 **Vaani — ISL Translator** | Offline Indian Sign Language translator for Android using Flutter, MediaPipe, and TFLite; real-time recognition + text-to-sign playback |
 | 👕 **Fashion Recommender** | Visual recommendation system using FastAPI, ResNet50, and Google Cloud Vision API |
-| 🏥 **MedOS** | AI-powered emergency health platform unifying fragmented medical records into a single emergency profile |
 | 🌐 **AI Portfolio** | Personal portfolio built with React, TypeScript, Three.js & Framer Motion ("Chapter One: The Bookstore" theme) |
 
 <br/>
