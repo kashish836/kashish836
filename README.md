@@ -123,9 +123,6 @@ A personal portfolio designed around a bookstore / reading experience rather tha
 **App Development**
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,androidstudio" />
 
-**Web**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
-
 **Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,gcp,aws,docker" />
 
